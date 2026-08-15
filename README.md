@@ -1,4 +1,4 @@
-## Hi there 👋
+## Herkese merhaba👋
 
 <!--
 **Turan16-k/Turan16-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="Kayıt 2026-08-15 202759.gif" alt="Matrix" width="100%">
+<div align="center">
+  <img src="Kayıt 2026-08-15 202759.gif" alt="Matrix GIF" width="100%">
+</div>
