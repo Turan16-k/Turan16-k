@@ -58,10 +58,9 @@ Veritabanı, Araçlar, Güvenlik & AI/ML
 <div align="center"> 
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Turan16-k&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" /> 
   <br><br>
+  <!-- DÜZELTİLEN YILAN ANİMASYONU -->
   <img src="https://raw.githubusercontent.com/Turan16-k/Turan16-k/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> 
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>  
-  
-  <p>⭐ Profilime uğradığınız için teşekkürler! Birlikte kod yazmak dileğiyle 🚀</p>
 </div>
 <img src="Kayıt 2026-08-15 202759.gif" alt="Matrix" width="100%" 😊
