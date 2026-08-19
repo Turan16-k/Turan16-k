@@ -8,13 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=Turan16-k&label=Profile%20Views&color=38BDF8&style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-38BDF8?style=for-the-badge" /> 
 </div> 
-<br>
-
-isim:       Abdurrahman Turan Özcan
-rol:        Bilgisayar Mühendisliği Öğrencisi (2. Sınıf)
-odak:       Siber Güvenlik · Yapay Zeka / Makine Öğrenmesi · Mobil Geliştirme (Flutter)
-şu_an:      Yeni teknolojiler öğreniyor ve projeler geliştiriyor
-ilgi_alanı: Siber Güvenlik, AI/ML, Mobil Geliştirme, Yazılım Mimarisi
 
 * 🎓 Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
 * 🛡️ Siber Güvenlik ve CTF alanlarında kendimi geliştiriyorum.
@@ -58,7 +51,6 @@ Veritabanı, Araçlar, Güvenlik & AI/ML
 <div align="center"> 
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Turan16-k&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" /> 
   <br><br>
-  <!-- DÜZELTİLEN YILAN ANİMASYONU -->
   <img src="https://raw.githubusercontent.com/Turan16-k/Turan16-k/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> 
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>  
