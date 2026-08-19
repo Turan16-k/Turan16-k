@@ -1,16 +1,30 @@
 ## Herkese merhaba👋
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Örnek%20Kullanıcı%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=4.+S%C4%B1n%C4%B1f+Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisiyim;.NET+Core+%26+Spring+Boot+ile+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;AI+%2F+ML+Alan%C4%B1na+Tutkuyla+Ba%C4%9Fl%C4%B1y%C4%B1m+%F0%9F%9A%80;Medium%27da+Bilgi+Payla%C5%9F%C4%B1yorum+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /> </a> <br> <img src="https://komarev.com/ghpvc/?username=ornek-kullanici&label=Profile%20Views&color=38BDF8&style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-38BDF8?style=for-the-badge" /> </div> <br> 
-isim:      Abdurrahman Turan Özcan
-rol:        Bilgisayar Mühendisi
-odak:       Siber Güvenlik / Yapay Zeka / Makine Öğrenmesi
-şu_an:      Yeni teknolojiler öğreniyor ve projeler geliştiriyor
-ilgi_alanı: Mobil geliştirme, AI/ML, Yazılım Mimarisi, Siber güvenlik
-📫 Bana ulaşmak veya iş birliği yapmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz
-<br> <div align="center"> <a href="mailto:ornek.kullanici@example.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/abdurrahmanturanozcan"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/@abdurrahman16"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://leetcode.com/ornek-kullanici/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </div> <br> <div align="center"> 
-Diller & Frameworkler
-<img src="https://skillicons.dev/icons?i=java,cs,python,dotnet,spring,html,css,js&theme=dark" /> <br> 
-Veritabanı, Araçlar & AI/ML
-<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,vscode,postman,pytorch,tensorflow&theme=dark" /> </div> <br> <div align="center"> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ornek-kullanici&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" /> <br> <div align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/> 
+<div align="center">
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Abdurrahman%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Cybersecurity%20%26%20AI%20%26%20Mobile%20Dev&descAlignY=55&descSize=16" width="100%"/>
+
+  <!-- Typing SVG Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+2.+S%C4%B1n%C4%B1f+%C3%96%C4%9Frencisiyim;Siber+G%C3%BCvenlik+%26+CTF+%C3%87al%C4%B1%C5%9Fmalar%C4%B1+Yap%C4%B1yorum+%F0%9F%9B%A1%EF%B8%8F;Yapay+Zeka+%26+Makine+%C3%96%C4%9Frenmesi+%F0%9F%A4%96;Flutter+%26+Mobil+Uygulama+Geli%C5%9Ftiriyorum+%F0%9F%93%B1;Medium%27da+Teknik+Yaz%C4%B1lar+Payla%C5%9F%C4%B1yorum+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
+  </a>
+  <br><br>
+
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=Turan16-k&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-38BDF8?style=for-the-badge" />
 </div>
+
+<br>
+
+### 👨‍💻 Hakkımda
+
+```yaml
+isim: Abdurrahman Turan Özcan
+rol: Bilgisayar Mühendisliği Öğrencisi (2. Sınıf)
+odak_alanları:
+  - 🛡️ Siber Güvenlik (Offensive & Defensive Security, CTF)
+  - 🤖 Yapay Zeka & Makine Öğrenmesi
+  - 📱 Cross-Platform Mobil Geliştirme (Flutter & Dart)
+şu_an: Güvenli yazılım mimarileri, yapay zeka entegrasyonları ve mobil projeler geliştiriyor
 <img src="Kayıt 2026-08-15 202759.gif" alt="Matrix" width="100%" 😊
