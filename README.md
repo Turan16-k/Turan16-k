@@ -10,3 +10,4 @@
 </div> 
 
 <img src="Kayıt 2026-08-15 202759.gif" alt="Matrix" width="100%" 😊
+1/40
